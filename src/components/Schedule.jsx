@@ -33,6 +33,12 @@ const schedule = [
         end: '11:30AM',
       },
       {
+        name: 'Diversas pessoas',
+        description: 'Lightning talks',
+        start: '11:30AM',
+        end: '12:00PM',
+      },
+      {
         name: 'Cairo Noleto',
         description: 'Processos em Elixir - Como funciona a arquitetura básica das aplicações Elixir',
         start: '3:00PM',
