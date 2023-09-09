@@ -84,6 +84,12 @@ const schedule = [
       'Segundo dia de conferência.',
     timeSlots: [
       {
+        name: 'Recepção',
+        description: '',
+        start: '08:00AM',
+        end: '9:00AM',
+      },
+      {
         name: 'Carla Bezerra',
         description: 'Refatoração de Code Smells e seu impacto na qualidade de software',
         start: '2:00PM',
