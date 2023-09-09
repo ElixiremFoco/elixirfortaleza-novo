@@ -15,6 +15,12 @@ const schedule = [
       'Primeiro dia de conferência.',
     timeSlots: [
       {
+        name: 'Recepção',
+        description: '',
+        start: '08:00AM',
+        end: '9:00AM',
+      },
+      {
         name: 'Pedro Castilho',
         description: 'O runtime Erlang e como torná-lo seu amigo.',
         start: '09:00AM',
