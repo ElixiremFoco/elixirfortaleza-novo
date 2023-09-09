@@ -96,6 +96,30 @@ const schedule = [
         end: '10:00AM',
       },
       {
+        name: 'Matheus de Camargo Marques',
+        description: 'Busca por palavra chaves com concorrência OTP & Elixir',
+        start: '10:30AM',
+        end: '11:00AM',
+      },
+            {
+        name: 'Vinícius Silva Pacheco',
+        description: 'Honey Potion: Explorando o Poder do eBPF com Elixir',
+        start: '11:00AM',
+        end: '11:30AM',
+      },
+            {
+        name: 'Lightning talks',
+        description: '',
+        start: '11:30AM',
+        end: '12:00PM',
+      },
+      {
+        name: 'Intervalo para almoço',
+        description: '',
+        start: '12:00PM',
+        end: '2:00PM',
+      },
+      {
         name: 'Carla Bezerra',
         description: 'Refatoração de Code Smells e seu impacto na qualidade de software',
         start: '2:00PM',
