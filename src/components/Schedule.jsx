@@ -90,6 +90,12 @@ const schedule = [
         end: '9:00AM',
       },
       {
+        name: 'Marlus Saraiva',
+        description: 'a definir',
+        start: '09:00AM',
+        end: '10:00AM',
+      },
+      {
         name: 'Carla Bezerra',
         description: 'Refatoração de Code Smells e seu impacto na qualidade de software',
         start: '2:00PM',
