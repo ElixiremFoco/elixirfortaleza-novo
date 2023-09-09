@@ -39,12 +39,30 @@ const schedule = [
         end: '12:00PM',
       },
       {
+        name: 'Intervalo para almoço',
+        description: '',
+        start: '12:00PM',
+        end: '2:00PM',
+      },
+      {
+        name: 'David Cao	',
+        description: 'Modern Clicks (Erlang Fullstack Web Development with Nitrogen)',
+        start: '2:00PM',
+        end: '3:00PM',
+      },
+      {
         name: 'Cairo Noleto',
         description: 'Processos em Elixir - Como funciona a arquitetura básica das aplicações Elixir',
         start: '3:00PM',
         end: '3:30PM',
       },
-            {
+      {
+        name: 'Willian Frantz',
+        description: 'Aprendizados de 2 anos utilizando LiveView',
+        start: '4:00PM',
+        end: '4:30PM',
+      },
+        {
         name: 'Charlote Oliveira',
         description: 'Elixir como linguagem da web do futuro',
         start: '4:30PM',
