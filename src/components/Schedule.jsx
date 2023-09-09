@@ -35,7 +35,7 @@ const schedule = [
             {
         name: 'Charlote Oliveira',
         description: 'Elixir como linguagem da web do futuro',
-        start: '4:300PM',
+        start: '4:30PM',
         end: '5:30PM',
       },
 
