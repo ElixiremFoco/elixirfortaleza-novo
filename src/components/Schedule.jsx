@@ -125,6 +125,26 @@ const schedule = [
         start: '2:00PM',
         end: '3:00PM',
       },
+      {
+        name: 'Espaço Elixir em Foco',
+        description: '',
+        start: '3:00PM',
+        end: '3:30PM',
+      },
+      {
+        name: 'Francisco Heron de Carvalho Júnior',
+        description: 'Fundamentos e Técnicas de Paralelização de Programas com Exemplos em Erlang e Elixir',
+        start: '4:30PM',
+        end: '5:30PM',
+      },
+        {
+        name: 'Encerramento',
+        description: '',
+        start: '5:30PM',
+        end: '6:00PM',
+      },
+
+
     ],
   },
 ]
