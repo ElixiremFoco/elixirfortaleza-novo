@@ -27,6 +27,12 @@ const schedule = [
         end: '11:00AM',
       },
       {
+        name: 'Lucas Vegi',
+        description: 'Code Smells e Refatorações específicos para Elixir',
+        start: '11:00AM',
+        end: '11:30AM',
+      },
+      {
         name: 'Cairo Noleto',
         description: 'Processos em Elixir - Como funciona a arquitetura básica das aplicações Elixir',
         start: '3:00PM',
