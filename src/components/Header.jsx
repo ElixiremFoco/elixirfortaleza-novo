@@ -21,7 +21,7 @@ export function Header() {
           </div>
         </div>
         <div className="hidden sm:mt-10 sm:flex lg:mt-0 lg:grow lg:basis-0 lg:justify-end">
-          <Button href="#">Tickets/Inscrições (em breve)</Button>
+          <Button href="#">Tickets/Inscrições (em 11/09, 18h00)</Button>
         </div>
       </Container>
     </header>
