@@ -192,7 +192,7 @@ export function Schedule() {
             Programação e agenda
           </h2>
           <p className="mt-4 font-display text-2xl tracking-tight text-purple-900">
-            Confira todas as palestras e key-notes
+            Confira todas as palestras e keynotes
           </p>
         </div>
       </Container>
