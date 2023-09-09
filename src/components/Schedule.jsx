@@ -22,7 +22,7 @@ const schedule = [
       },
       {
         name: 'Joel Jucá',
-        description: 'A definir',
+        description: 'Phoenix over SQLite',
         start: '10:30AM',
         end: '11:00AM',
       },
