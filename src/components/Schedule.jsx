@@ -39,8 +39,8 @@ const schedule = [
         end: '11:30AM',
       },
       {
-        name: 'Diversas pessoas',
-        description: 'Lightning talks',
+        name: 'Lightning talks',
+        description: '',
         start: '11:30AM',
         end: '12:00PM',
       },
