@@ -22,7 +22,7 @@ const schedule = [
       },
       {
         name: 'Pedro Castilho',
-        description: 'O runtime Erlang e como torná-lo seu amigo.',
+        description: 'O runtime Erlang e como torná-lo seu amigo',
         start: '09:00AM',
         end: '10:00AM',
       },
