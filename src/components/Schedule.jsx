@@ -23,9 +23,16 @@ const schedule = [
       {
         name: 'Cairo Noleto',
         description: 'Processos em Elixir - Como funciona a arquitetura básica das aplicações Elixir',
-        start: '10:00AM',
-        end: '11:00AM',
+        start: '3:00PM',
+        end: '3:30PM',
       },
+            {
+        name: 'Charlote Oliveira',
+        description: 'Elixir como linguagem da web do futuro',
+        start: '4:300PM',
+        end: '5:30PM',
+      },
+
     ],
   },
   {
@@ -35,10 +42,10 @@ const schedule = [
       'Segundo dia de conferência.',
     timeSlots: [
       {
-        name: 'Charlote Oliveira',
-        description: 'Elixir como linguagem da web do futuro',
-        start: '9:00AM',
-        end: '10:00AM',
+        name: 'Carla Bezerra',
+        description: 'Refatoração de Code Smells e seu impacto na qualidade de software',
+        start: '2:00PM',
+        end: '3:00PM',
       },
     ],
   },
