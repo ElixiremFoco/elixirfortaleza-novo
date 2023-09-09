@@ -21,6 +21,12 @@ const schedule = [
         end: '10:00AM',
       },
       {
+        name: 'Joel Jucá',
+        description: 'A definir',
+        start: '10:30AM',
+        end: '11:00AM',
+      },
+      {
         name: 'Cairo Noleto',
         description: 'Processos em Elixir - Como funciona a arquitetura básica das aplicações Elixir',
         start: '3:00PM',
