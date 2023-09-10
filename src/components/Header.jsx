@@ -23,15 +23,7 @@ export function Header() {
         <div className="hidden sm:mt-10 sm:flex lg:mt-0 lg:grow lg:basis-0 lg:justify-end">
           <Button href="#">Tickets/Inscrições (em 11/09, 18h00)</Button>
         </div>
-        <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-JF32CGGFV1"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
 
-  gtag('config', 'G-JF32CGGFV1');
-</script>
       </Container>
     </header>
   )
