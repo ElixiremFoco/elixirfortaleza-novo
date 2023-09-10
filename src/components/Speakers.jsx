@@ -123,7 +123,7 @@ const days = [
         image: placeHolderImage,
       },
       {
-        name: 'Oswald Schreder',
+        name: 'Odwald Schreder',
         role: '',
         image: placeHolderImage,
       },
