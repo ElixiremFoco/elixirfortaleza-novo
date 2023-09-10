@@ -18,6 +18,12 @@ const schedule = [
         name: 'Recepção',
         description: '',
         start: '08:00AM',
+        end: '8:45AM',
+      },
+      {
+        name: 'Abertura',
+        description: '',
+        start: '08:45AM',
         end: '9:00AM',
       },
       {
