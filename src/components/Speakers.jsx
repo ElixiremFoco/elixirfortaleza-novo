@@ -19,6 +19,7 @@ import adrianoSantosImage from '@/images/avatars/adriano-santos.jpg'
 import pedroCastilhoImage from '@/images/avatars/pedro-castilho.jpg'
 import cairoNoletoImage from '@/images/avatars/cairo-noleto.jpg'
 import charloteLoreleiImage from '@/images/avatars/charlote-lorelei.jpg'
+import lucasVegiImage from '@/images/avatars/lucas-vegi.jpg'
 import placeHolderImage from '@/images/avatars/placeholder.jpg'
 
 
