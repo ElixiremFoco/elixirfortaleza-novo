@@ -20,6 +20,7 @@ import pedroCastilhoImage from '@/images/avatars/pedro-castilho.jpg'
 import cairoNoletoImage from '@/images/avatars/cairo-noleto.jpg'
 import charloteLoreleiImage from '@/images/avatars/charlote-lorelei.jpg'
 import lucasVegiImage from '@/images/avatars/lucas-vegi.jpg'
+import willianFrantzImage from '@/images/avatars/willian-frantz.jpg'
 import placeHolderImage from '@/images/avatars/placeholder.jpg'
 
 
@@ -53,6 +54,11 @@ const days = [
         name: 'Cairo Noleto',
         role: 'Staff Software Engineer - Trybe',
         image: cairoNoletoImage,
+      },
+      {
+        name: 'Willian Frantz',
+        role: 'Senior Software Engineer at Riot Games',
+        image: willianFrantzNoletoImage,
       },
     ],
   },
