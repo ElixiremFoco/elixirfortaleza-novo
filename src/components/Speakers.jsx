@@ -31,12 +31,12 @@ const days = [
     dateTime: '2023-09-21',
     speakers: [
       {
-        name: 'Pedro Castilho',
+        name: 'Pedro Castilho (Keynote Speaker)',
         role: 'Tech Cofounder - Cumbuca',
         image: pedroCastilhoImage,
       },
       {
-        name: 'Charlotte Lorelei',
+        name: 'Charlotte Lorelei (Keynote Speaker)',
         role: 'Software Engineer',
         image: charloteLoreleiImage,
       },
@@ -68,7 +68,7 @@ const days = [
     dateTime: '2022-09-22',
     speakers: [
       {
-        name: 'Francisco Heron de Carvalho Junior',
+        name: 'Francisco Heron de Carvalho Junior (Keynote Speaker)',
         role: 'UFC',
         image: franciscoHeronImage,
       },
