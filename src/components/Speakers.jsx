@@ -77,7 +77,7 @@ const days = [
       {
         name: 'Marlus Saraiva (Keynote Speaker)',
         role: 'Senior Software Engineer at Simplebet',
-        image: davidSaraivaImage,
+        image: marlusSaraivaImage,
       },
       {
         name: 'Francisco Heron de Carvalho Junior (Keynote Speaker)',
