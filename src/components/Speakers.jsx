@@ -21,6 +21,8 @@ import cairoNoletoImage from '@/images/avatars/cairo-noleto.jpg'
 import charloteLoreleiImage from '@/images/avatars/charlote-lorelei.jpg'
 import lucasVegiImage from '@/images/avatars/lucas-vegi.jpg'
 import willianFrantzImage from '@/images/avatars/willian-frantz.jpg'
+import davidCaoImage from '@/images/avatars/david-cao.jpg'
+import marlusSaraivaImage from '@/images/avatars/marlus-saraiva.jpg'
 import placeHolderImage from '@/images/avatars/placeholder.jpg'
 
 
@@ -51,6 +53,11 @@ const days = [
         image: lucasVegiImage,
       },
       {
+        name: 'David Cao',
+        role: 'Software Engineer',
+        image: davidCaoImage,
+      },
+      {
         name: 'Cairo Noleto',
         role: 'Staff Software Engineer - Trybe',
         image: cairoNoletoImage,
@@ -67,6 +74,11 @@ const days = [
     date: '22 de Setembro',
     dateTime: '2022-09-22',
     speakers: [
+      {
+        name: 'Marlus Saraiva (Keynote Speaker)',
+        role: 'Senior Software Engineer at Simplebet',
+        image: davidSaraivaImage,
+      },
       {
         name: 'Francisco Heron de Carvalho Junior (Keynote Speaker)',
         role: 'UFC',
