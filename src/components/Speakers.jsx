@@ -24,6 +24,7 @@ import willianFrantzImage from '@/images/avatars/willian-frantz.jpg'
 import davidCaoImage from '@/images/avatars/david-cao.jpg'
 import marlusSaraivaImage from '@/images/avatars/marlus-saraiva.jpg'
 import carlaBezerraImage from '@/images/avatars/carla-bezerra.jpg'
+import viniciusPachecoImage from '@/images/avatars/vinicus-pacheco.jpg'
 import placeHolderImage from '@/images/avatars/placeholder.jpg'
 
 
@@ -89,6 +90,11 @@ const days = [
         name: 'Francisco Heron de Carvalho Junior (Keynote Speaker)',
         role: 'UFC',
         image: franciscoHeronImage,
+      },
+      {
+        name: 'Vinícis Silva pacheco',
+        role: 'Mestrando na UFMG',
+        image: viniciusPachecoImage,
       },
     ],
   },
