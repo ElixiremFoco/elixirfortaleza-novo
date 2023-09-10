@@ -92,7 +92,7 @@ const days = [
         image: franciscoHeronImage,
       },
       {
-        name: 'Vinícis Silva Pacheco',
+        name: 'Vinícius Silva Pacheco',
         role: 'Mestrando na UFMG',
         image: viniciusPachecoImage,
       },
