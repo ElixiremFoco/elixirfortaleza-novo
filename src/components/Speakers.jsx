@@ -45,6 +45,11 @@ const days = [
         image: joelJucaImage,
       },
       {
+        name: 'Lucas Vegi',
+        role: 'Professor na UFV e Doutorando na UFMG',
+        image: lucasVegiImage,
+      },
+      {
         name: 'Cairo Noleto',
         role: 'Staff Software Engineer - Trybe',
         image: cairoNoletoImage,
