@@ -23,6 +23,7 @@ import lucasVegiImage from '@/images/avatars/lucas-vegi.jpg'
 import willianFrantzImage from '@/images/avatars/willian-frantz.jpg'
 import davidCaoImage from '@/images/avatars/david-cao.jpg'
 import marlusSaraivaImage from '@/images/avatars/marlus-saraiva.jpg'
+import carlaBezerraImage from '@/images/avatars/carla-bezerra.jpg'
 import placeHolderImage from '@/images/avatars/placeholder.jpg'
 
 
@@ -78,6 +79,11 @@ const days = [
         name: 'Marlus Saraiva (Keynote Speaker)',
         role: 'Senior Software Engineer at Simplebet',
         image: marlusSaraivaImage,
+      },
+      {
+        name: 'Carla Ilane Moreira Bezerra (Keynote Speaker)',
+        role: 'UFC',
+        image: carlaBezerraImage,
       },
       {
         name: 'Francisco Heron de Carvalho Junior (Keynote Speaker)',
