@@ -25,6 +25,7 @@ import davidCaoImage from '@/images/avatars/david-cao.jpg'
 import marlusSaraivaImage from '@/images/avatars/marlus-saraiva.jpg'
 import carlaBezerraImage from '@/images/avatars/carla-bezerra.jpg'
 import viniciusPachecoImage from '@/images/avatars/vinicius-pacheco.jpg'
+import matheusMarquesImage from '@/images/avatars/matheus-marques.jpg'
 import placeHolderImage from '@/images/avatars/placeholder.jpg'
 
 
@@ -90,6 +91,11 @@ const days = [
         name: 'Francisco Heron de Carvalho Junior (Keynote Speaker)',
         role: 'UFC',
         image: franciscoHeronImage,
+      },
+      {
+        name: 'Matheus de Camargo Marques',
+        role: 'Elixir and Erlang Developer',
+        image: matheusMarquesImage,
       },
       {
         name: 'Vinícius Silva Pacheco',
