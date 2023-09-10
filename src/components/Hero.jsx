@@ -96,8 +96,8 @@ function english() {
               <a className='text-purple-550' href='http://elixiremfoco.com/'>Elixir em Foco</a>, 
               <a className='text-purple-550' href='https://elug-ce.github.io/'>Elug CE</a>, 
               DAINF, 
-              and <a className='text-purple-550' href='https://ppgca.ct.utfpr.edu.br/'>UTFPR's PPGCA</a>, 
-              <a className='text-purple-550' href='https://dc.ufc.br/pt/'>UFC's Department of Computing</a>, 
+              and <a className='text-purple-550' href='https://ppgca.ct.utfpr.edu.br/'>UTFPR\'s PPGCA</a>, 
+              <a className='text-purple-550' href='https://dc.ufc.br/pt/'>UFC\'s Department of Computing</a>, 
               and <a className='text-purple-550' href='https://virtual.ufc.br/'>UFC Virtual</a>. 
               This is an event organized by the <a className='text-purple-550' href='https://elixir-lang.org/'>Elixir</a> community.
                 </p>
