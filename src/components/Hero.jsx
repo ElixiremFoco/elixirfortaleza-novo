@@ -36,7 +36,7 @@ function portuguese() {
               Uma conferência do <a className='text-purple-550' href='https://erlef.org/'>ecossistema de Erlang</a>,
               feita por <a className='text-purple-550' href='http://elixiremfoco.com/'> Elixir em Foco</a>,
               <a className='text-purple-550' href='https://elug-ce.github.io/'> Elug CE</a>,
-              DAINF e <a className='text-purple-550' href='https://ppgca.ct.utfpr.edu.br/'> PPGCA da UTFPR</a>,
+              <a className='text-purple-550' href='https://utfpr.curitiba.br/dainf/'> DAINF</a> e <a className='text-purple-550' href='https://ppgca.ct.utfpr.edu.br/'> PPGCA da UTFPR</a>,
               <a className='text-purple-550' href='https://dc.ufc.br/pt/'> Departamento de Computação da UFC</a> e
               <a className='text-purple-550' href='https://virtual.ufc.br/'> UFC Virtual</a>. Este é um evento organizado
               pela comunidade <a className='text-purple-550' href='https://elixir-lang.org/'>Elixir</a>.
@@ -95,8 +95,8 @@ function english() {
             A conference of the <a className='text-purple-550' href='https://erlef.org/'>Erlang ecosystem</a>, organized by 
               <a className='text-purple-550' href='http://elixiremfoco.com/'> Elixir em Foco</a>, 
               <a className='text-purple-550' href='https://elug-ce.github.io/'> Elug CE</a>, 
-              DAINF, 
-              and <a className='text-purple-550' href='https://ppgca.ct.utfpr.edu.br/'> UTFPR&apos;s PPGCA</a>, 
+              <a className='text-purple-550' href='https://utfpr.curitiba.br/dainf/'> UTFPR&apos;s DAINF</a>, 
+              <a className='text-purple-550' href='https://ppgca.ct.utfpr.edu.br/'> UTFPR&apos;s PPGCA</a>, 
               <a className='text-purple-550' href='https://dc.ufc.br/pt/'> UFC&apos;s Department of Computing</a>, 
               and <a className='text-purple-550' href='https://virtual.ufc.br/'> UFC Virtual</a>. 
               This is an event organized by the <a className='text-purple-550' href='https://elixir-lang.org/'>Elixir</a> community.
