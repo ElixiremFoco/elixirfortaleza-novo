@@ -34,14 +34,19 @@ const days = [
         image: pedroCastilhoImage,
       },
       {
-        name: 'Cairo Noleto',
-        role: 'Staff Software Engineer - Trybe',
-        image: cairoNoletoImage,
-      },
-      {
         name: 'Charlotte Lorelei',
         role: 'Software Engineer',
         image: charloteLoreleiImage,
+      },
+      {
+        name: 'Joel Jucá',
+        role: 'Elug-CE',
+        image: joelJucaImage,
+      },
+      {
+        name: 'Cairo Noleto',
+        role: 'Staff Software Engineer - Trybe',
+        image: cairoNoletoImage,
       },
     ],
   },
