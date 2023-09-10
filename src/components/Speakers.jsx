@@ -24,7 +24,7 @@ import willianFrantzImage from '@/images/avatars/willian-frantz.jpg'
 import davidCaoImage from '@/images/avatars/david-cao.jpg'
 import marlusSaraivaImage from '@/images/avatars/marlus-saraiva.jpg'
 import carlaBezerraImage from '@/images/avatars/carla-bezerra.jpg'
-import viniciusPachecoImage from '@/images/avatars/vinicus-pacheco.jpg'
+import viniciusPachecoImage from '@/images/avatars/vinicius-pacheco.jpg'
 import placeHolderImage from '@/images/avatars/placeholder.jpg'
 
 
@@ -92,7 +92,7 @@ const days = [
         image: franciscoHeronImage,
       },
       {
-        name: 'Vinícis Silva pacheco',
+        name: 'Vinícis Silva Pacheco',
         role: 'Mestrando na UFMG',
         image: viniciusPachecoImage,
       },
