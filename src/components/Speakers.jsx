@@ -38,6 +38,11 @@ const days = [
         role: 'Staff Software Engineer - Trybe',
         image: cairoNoletoImage,
       },
+      {
+        name: 'Charlotte Lorelei',
+        role: 'Software Engineer',
+        image: charloteLoreleiImage,
+      },
     ],
   },
   {
@@ -46,9 +51,9 @@ const days = [
     dateTime: '2022-09-22',
     speakers: [
       {
-        name: 'Charlotte Lorelei',
-        role: 'Software Engineer',
-        image: charloteLoreleiImage,
+        name: 'Francisco Heron de Carvalho Junior',
+        role: 'UFC',
+        image: franciscoHeronImage,
       },
     ],
   },
