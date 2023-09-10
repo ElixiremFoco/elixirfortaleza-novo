@@ -58,7 +58,7 @@ const days = [
       {
         name: 'Willian Frantz',
         role: 'Senior Software Engineer at Riot Games',
-        image: willianFrantzNoletoImage,
+        image: willianFrantzImage,
       },
     ],
   },
