@@ -132,8 +132,8 @@ const schedule = [
         end: '3:00PM',
       },
       {
-        name: 'Espaço Elixir em Foco',
-        description: '',
+        name: 'Gustavo Araújo',
+        description: 'Construindo um Ambiente de Desenvolvimento Impecável em Elixir: Ferramentas Essenciais e Melhores Práticas',
         start: '3:00PM',
         end: '3:30PM',
       },
