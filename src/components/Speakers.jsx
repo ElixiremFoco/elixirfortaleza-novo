@@ -133,7 +133,7 @@ const days = [
         image: placeHolderImage,
       },
       {
-        name: 'Vinícius Bali Alonso',
+        name: 'Vinícius Bail Alonso',
         role: '',
         image: viniciusBaliImage,
       },
