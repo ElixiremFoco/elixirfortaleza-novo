@@ -85,7 +85,7 @@ const days = [
       },
       {
         name: 'Carla Ilane Moreira Bezerra (Keynote Speaker)',
-        role: 'UFC',
+        role: 'UFC - Campus Quixadá',
         image: carlaBezerraImage,
       },
       {
