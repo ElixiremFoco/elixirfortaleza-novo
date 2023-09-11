@@ -42,12 +42,12 @@ const schedule = [
         name: 'Lucas Vegi',
         description: 'Code Smells e Refatorações específicos para Elixir',
         start: '11:00AM',
-        end: '11:30AM',
+        end: '11:40AM',
       },
       {
         name: 'Lightning talks',
         description: '',
-        start: '11:30AM',
+        start: '11:40AM',
         end: '12:00PM',
       },
       {
