@@ -114,8 +114,8 @@ const schedule = [
         end: '11:30AM',
       },
             {
-        name: 'Lightning talks',
-        description: '',
+        name: 'Bruno Lopes',
+        description: 'Aprenda Elixir criando um bot para o Discord',
         start: '11:30AM',
         end: '12:00PM',
       },
