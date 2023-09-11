@@ -26,6 +26,7 @@ import marlusSaraivaImage from '@/images/avatars/marlus-saraiva.jpg'
 import carlaBezerraImage from '@/images/avatars/carla-bezerra.jpg'
 import viniciusPachecoImage from '@/images/avatars/vinicius-pacheco.jpg'
 import matheusMarquesImage from '@/images/avatars/matheus-marques.jpg'
+import brunoLopesImage from '@/images/avatars/prof-bruno.jpg'
 import placeHolderImage from '@/images/avatars/placeholder.jpg'
 
 
@@ -101,6 +102,11 @@ const days = [
         name: 'Vinícius Silva Pacheco',
         role: 'Mestrando na UFMG',
         image: viniciusPachecoImage,
+      },
+      {
+        name: 'Bruno Lopes',
+        role: 'Pessoa especialista na Escola de Programação Trybe',
+        image: brunoLopesImage,
       },
     ],
   },
