@@ -33,6 +33,9 @@ function portuguese() {
           <h1 className="font-display text-5xl font-bold tracking-tighter text-purple-550 sm:text-7xl">
             Elixir Fortaleza Conf <span className='text-purple-200'>2023</span>
           </h1>
+          <Button href="https://bit.ly/45YuUyo" className="mt-10 w-full sm:hidden">
+            Inscrições
+          </Button>
           <div className="mt-6 space-y-6 font-display text-2xl tracking-tight text-purple-900">
             <p>
               Uma conferência do <a className='text-purple-550' href='https://erlef.org/'>ecossistema de Erlang</a>,
@@ -75,9 +78,6 @@ function portuguese() {
               Universidade Federal do Ceará (UFC).
             </p>
           </div>
-          <Button href="https://bit.ly/45YuUyo" className="mt-10 w-full sm:hidden">
-            Inscrições
-          </Button>
         </div>
       </Container>
     </div>
@@ -95,6 +95,9 @@ function english() {
           <h1 className="font-display text-5xl font-bold tracking-tighter text-purple-550 sm:text-7xl">
             Elixir Fortaleza Conf <span className='text-purple-200'>2023</span>
           </h1>
+          <Button href="https://bit.ly/45YuUyo" className="mt-10 w-full sm:hidden">
+            Tickets
+          </Button>
           <div className="mt-6 space-y-6 font-display text-2xl tracking-tight text-purple-900">
             <p>
             A conference of the <a className='text-purple-550' href='https://erlef.org/'>Erlang ecosystem</a>, organized by
@@ -133,9 +136,6 @@ function english() {
               Universidade Federal do Ceará (UFC).
             </p>
           </div>
-          <Button href="https://bit.ly/45YuUyo" className="mt-10 w-full sm:hidden">
-            Tickets
-          </Button>
         </div>
       </Container>
     </div>
