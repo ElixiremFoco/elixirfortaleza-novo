@@ -97,7 +97,7 @@ const schedule = [
       },
       {
         name: 'Marlus Saraiva',
-        description: 'a definir',
+        description: 'Usando Scoped CSS em componentes Phoenix/Surface para melhor manutenção e performance',
         start: '09:00AM',
         end: '10:00AM',
       },
