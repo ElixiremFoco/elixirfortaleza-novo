@@ -127,7 +127,7 @@ const schedule = [
       },
       {
         name: 'Carla Bezerra',
-        description: 'Refatoração de Code Smells e seu impacto na qualidade de software',
+        description: 'Refatoração de code smells e seu impacto na qualidade do software',
         start: '2:00PM',
         end: '3:00PM',
       },
