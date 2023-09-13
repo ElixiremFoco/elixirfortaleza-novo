@@ -27,6 +27,7 @@ import carlaBezerraImage from '@/images/avatars/carla-bezerra.jpg'
 import viniciusPachecoImage from '@/images/avatars/vinicius-pacheco.jpg'
 import matheusMarquesImage from '@/images/avatars/matheus-marques.jpg'
 import brunoLopesImage from '@/images/avatars/prof-bruno.jpg'
+import gustavoAraujoImage from '@/images/avatars/gustavo-araujo.jpg'
 import placeHolderImage from '@/images/avatars/placeholder.jpg'
 
 
@@ -108,6 +109,12 @@ const days = [
         role: 'Pessoa especialista na Escola de Programação Trybe',
         image: brunoLopesImage,
       },
+        {
+        name: 'Gustavo Araújo',
+        role: 'Senior Software Engineer at CloudWalk, Inc. ',
+        image: gustavoAraujoImage,
+      },
+
     ],
   },
   {
